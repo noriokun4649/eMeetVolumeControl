@@ -1,5 +1,5 @@
 # eMeetVolumeControl
-eMeet の音量調整ノブの USB HID をハンドリングするテストプログラムです
+eMeet の音量調整ノブの USB HID をハンドリングするテストプログラムです  
 Test program to handle USB HID for eMeet volume control knob
 
 # Demo
